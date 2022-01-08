@@ -1,6 +1,6 @@
 /* FONTS */
 #app .benton-ital {
-	font-family: BentonSansCond-RegItalic;
+	font-family: BentonSansCond-BoldItalic;
 }
 
 /* COLOURS */
@@ -10,8 +10,8 @@
 	color: #FFF;
 	padding: 1px 2px;
 }
-.green-01 {
-	background-color: var(--green01);
+.orange-01 {
+	background-color: var(--orange01);
 	border-radius: 2px;
 	color: #FFF;
 	padding: 1px 2px;
@@ -53,7 +53,7 @@
 	text-align: center;
 }
 .scrollyteller .step:first-of-type {
-	margin-top: -25%;
+	margin-top: -35%;
 }
 .scrollyteller .step:last-of-type {
 	margin-bottom: 0;
