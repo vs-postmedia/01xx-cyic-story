@@ -1,5 +1,7 @@
 /* FONTS */
 #app .benton-ital {
+	background: rgba(255,255,255,0.8);
+	display: block;
 	font-family: BentonSansCond-BoldItalic;
 }
 
